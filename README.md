@@ -1,2 +1,5 @@
-# python3-card-game
-Little test: python card game
+# Python3 Card-Game
+
+A little card game write with python
+
+[It's a test]
